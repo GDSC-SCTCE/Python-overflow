@@ -1,0 +1,41 @@
+body {
+  background-image: url("https://img.freepik.com/free-photo/abstract-luxury-soft-red-background-christmas-valentines-layout-design-studio-room-web-template-business-report-with-smooth-circle-gradient-color_1258-54520.jpg?size=626&ext=jpg");
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+}
+.container {
+  margin-top: 2em;
+}
+
+.row {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.mont-r{
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 400 !important;
+}
+.mont-l{
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 300 !important;
+}
+.mont-b{
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 700 !important;
+}
+.mont-b-i{
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 700 !important;
+    font-style: italic;
+}
+.mont-bl-i{
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 900 !important;
+    font-style: italic;
+}
+.mont-bl{
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 900 !important;
+}
